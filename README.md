@@ -46,6 +46,7 @@ My goal is to use my knowledge of Programming and IT to start a career in the So
     <img align="left" alt="Kotlin" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
     <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
     <img align="left" alt="Unity" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>  
+    <br />
 </p>  
 <br />
 
