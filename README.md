@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**'Aspiring Programmer (Web Dev/Software Engineer/Software Developer)'**
+**''Aspiring Programmer (Web Dev/Software Engineer/Software Developer)''**
 
 My goal is to use my knowledge of Programming and IT to start a career in the Software Engineering/Development field while continuing an education in Computer Science with a focus on Machine Learning. I am highly communicative, have knowledge of multiple programming languages such as C#, Python, C++, and look forward to an opportunity to learn more. I am most proficient in C# and have developed multiple C# apps, utilizing algorithmic knowledge, Model View Controllers, .NET 6.0 Frameworks, and SQL Databases.
