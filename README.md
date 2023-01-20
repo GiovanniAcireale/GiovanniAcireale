@@ -30,6 +30,7 @@ My goal is to use my knowledge of Programming and IT to start a career in the So
 ---
 
 ### 💻 Languages and Tools  
+<br />
 
 <p style="padding-top:25px">
     <img align="left" alt="CSharp" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
