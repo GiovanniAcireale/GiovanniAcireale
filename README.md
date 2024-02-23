@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 <img alt="Email" title="My Email" src="https://custom-icon-badges.demolab.com/badge/-gio.acireale@gmail.com-55960c?style=for-the-badge&logo=mention&logoColor=white"/>
 <img alt="Location" title="My Location" src="https://custom-icon-badges.demolab.com/badge/Florida-USA-blue?style=for-the-badge&logo=location&logoColor=white"/>
 
-Self-taught programmer since 2016, graduated from Valencia College with an Associates of Science in Computer Programming and Analysis in 2022, and currently pursuing a Bachelor's of Science in Computer Science at UCF.
-
 ---
 
 ### 💻 Languages and Tools  
