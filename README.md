@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 **`Software Engineer`**
 
+Hi, I'm Giovanni Acireale!
+I'm a software engineer and cybersecurity analyst with a passion for developing innovative applications and enhancing security measures. Currently pursuing my B.S. in Computer Science at UCF, I have a strong foundation in C, C#, C++, Java, JavaScript, Python, and .NET. Check out my projects and follow my journey in tech and cybersecurity. Let's collaborate on GitHub!
+
+
 <a href="https://www.linkedin.com/in/giovanni-acireale/"><img alt="LinkedIn Link" title="My LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-1155ba?style=for-the-badge&logoColor=white&logo=repo"/></a>
 <img alt="Phone Number" title=" My Phone Number" src="https://custom-icon-badges.demolab.com/badge/-407--694--6556-red?style=for-the-badge&logo=phone&logoColor=white"/>
 <img alt="Email" title="My Email" src="https://custom-icon-badges.demolab.com/badge/-gio.acireale@gmail.com-55960c?style=for-the-badge&logo=mention&logoColor=white"/>
