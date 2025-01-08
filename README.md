@@ -5,7 +5,7 @@ I create reliable and efficient software solutions tailored to solve real-world 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-acireale/)
 [![Email](https://img.shields.io/badge/Email-gio.acireale%40gmail.com-008577?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gio.acireale@gmail.com)
-![Phone](https://img.shields.io/badge/Phone-407--694--6556-red?style=for-the-badge&logo=phone&logoColor=white)
+<!-- ![Phone](https://img.shields.io/badge/Phone-407--694--6556-red?style=for-the-badge&logo=phone&logoColor=white) -->
 ![Location](https://img.shields.io/badge/Location-Florida%2C%20USA-blue?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 
