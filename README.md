@@ -115,7 +115,7 @@ I bring a strong foundation in systems administration and cybersecurity analysis
 
 
 ## 🖥️ IT Specialist
-I bring practical experience in IT with multiple certifications and a hands-on approach to problem-solving. Currently working in the field, I manage infrastructure, troubleshoot systems, and ensure reliable operations. Beyond my professional role, I explore new technologies in my home lab, engage in 3D printing projects, and develop robotics solutions, combining creativity with technical expertise to drive innovation.
+I bring practical experience in IT with multiple certifications and a hands-on approach to problem-solving. Currently working in the field, I manage infrastructure, troubleshoot systems, and ensure reliable operations. Beyond my professional role, I explore new technologies in my home lab, and engage in 3D printing projects, combining creativity with technical expertise to drive innovation.
 
 ### Relevant Skills & Tools
 
